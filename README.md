@@ -20,5 +20,8 @@ This project was created as a portfolio-ready application for a junior IT / fron
 ## Screenshots
 
 Screenshots should be saved in:
+Screeny powinny być zapisane w folderze:
 
+```txt
+public/screenshots
 ```txt
