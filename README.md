@@ -1,27 +1,25 @@
 # Career Agent HUD
 
-Career Agent HUD is a structured career preparation dashboard built with **Next.js**, **React**, **TypeScript** and **CSS Modules**.
+Career Agent HUD to uporządkowany dashboard do przygotowania kariery, zbudowany w **Next.js**, **React**, **TypeScript** i **CSS Modules**.
 
-The application helps organize portfolio projects, generate CV-ready project descriptions, compare job offers with current skills, prepare interview questions and export a structured career preparation report.
+Aplikacja pomaga organizować projekty portfolio, generować opisy projektów do CV, porównywać oferty pracy z aktualnymi umiejętnościami, przygotowywać pytania rekrutacyjne oraz tworzyć końcowy raport przygotowania do rekrutacji.
 
-This project was created as a portfolio-ready application for a junior IT / frontend developer candidate.
-
----
-
-## Project Status
-
-**Version:** v0.1 Mock MVP  
-**Status:** Core modules complete  
-**Build:** Passing  
-**Lint:** Passing
+Projekt został przygotowany jako aplikacja portfolio dla osoby aplikującej na pierwszą pracę w IT / frontendzie.
 
 ---
 
-## Screenshots
+## Status projektu
 
-Screenshots should be saved in:
-Screeny powinny być zapisane w folderze:
+**Wersja:** v0.1 Mock MVP  
+**Status:** główne moduły gotowe  
+**Build:** przechodzi  
+**Lint:** przechodzi
+
+---
+
+## Screeny
+
+Screeny są zapisane w folderze:
 
 ```txt
 public/screenshots
-```txt
